@@ -1,7 +1,7 @@
 **jupyter notebook ipynb가 열리지 않는 현상으로 인해**<br>
 **url을 여기에 넣어서 확인해주세요.  <https://nbviewer.jupyter.org/>**
 
-# word2vec국회_유사도 합본 / word2vec청와대_유사도 합본
+## word2vec국회_유사도 합본 / word2vec청와대_유사도 합본
 슬픔 유사도 / 분노 유사도 병합한 최종 데이터프레임-> xlsx 파일 입니다.
 이 엑셀파일이 아닌 혜림님의 토픽모델링 결과까지 병합된 엑셀파일로 남은 분석 진행해주세요
 
